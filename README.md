@@ -18,7 +18,7 @@ Programın Çalışma Şekli
 •	Multi-line kod yazılabilir şekilde  tasarladım.
 •	Her satırın sonuna noktalı virgül atılması gerekmektedir.
 •	Yazılan kodu çalıştırmak için kod satırı bittikten sonra bir alt satıra geçilip
-‘çalıştır’ yazmalı ve enter’a tıklamalı.
+          ‘çalıştır’ yazmalı ve enter’a tıklamalı.
 •	Programı çalıştırdığında girilen kodu ilk önce Lexer sonrasında ise Parser Classlarında işleme tabi tutuyorum.
 •	Çıktı olarak ise Lexer Analizinin çıktılarını ekrana basıyor.
 •	Parser Çıktıları adı altında ise değer ataması yapılan değişkenlerin adlarını ve değerlerini ekrana basıyorum.
